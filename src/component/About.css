@@ -1,0 +1,40 @@
+.main-container{
+    margin: 0px 149.5px;
+    padding: 0px 15px;
+}
+.container{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.profileImg img{
+    border-radius: 50%;
+    width: 160px;
+    height: 160px;
+    box-sizing: border-box;
+
+}
+.Details {
+    padding-left: 40px;
+}
+h1{
+    font-size: 40px;
+    margin: 26.800px 0px;
+}
+button{
+    width: 196.89px;
+    height: 35px;
+    border-radius: 5px;
+    background-color:#00a0fd;
+    color: #fff;
+    padding: 8px 20px;
+    border: 0;
+    font-size: 16px;
+    border-color: #00a0fd;
+}
+hr{
+    margin: 35px 0px;
+}
+p .contact .email{
+padding: 16px 0px;
+}

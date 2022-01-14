@@ -1,0 +1,30 @@
+/* .skills{
+    padding: 50px 0px 20px;
+    margin: 19.92px 0px;
+    font-size: 24px;
+} */
+.container1{
+    display: flex;
+    background: #f7f7f7;
+    padding: 15px;
+}
+h2{
+    margin: 30px 0px;
+}
+
+.container1 h3{
+    margin: 18.720px;
+    color: #504f4f;
+}
+ul{
+margin: 16px 0px;
+padding: 0px 0px 0px 40px;
+}
+li{
+    font-size: 18px;
+    padding: 8px;
+}
+
+.info2{
+    padding: 0px 0px 0px 150px;
+}

@@ -1,0 +1,22 @@
+ul li h4{
+    color: #1981f8;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 5px;
+}
+  #project li::marker{
+    color: #1981f8;
+}
+#project2 li::marker{
+    color: #1981f8;
+}
+#project p{
+    margin: 16px 0px;
+    padding: 5px;
+    margin-left: 5px;
+}
+#project2 p{
+    margin: 16px 0px;
+    padding: 5px;
+    margin-left: 5px;
+}
