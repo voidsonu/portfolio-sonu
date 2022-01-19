@@ -1,6 +1,6 @@
 import React from 'react';
 import './About.css';
-import './profile.jpg';
+import './profile.jpeg';
 
 export const About=()=>{
     return(<>
