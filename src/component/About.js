@@ -7,7 +7,7 @@ export const About=()=>{
         <div className="main-container">
             <div className="container" id="About">
                     <div className="profileImg">
-                        <img src={require('./profile.jpg')} alt="ProfileImage" />
+                        <img src={require('./profile.jpeg')} alt="ProfileImage" />
                     </div>
                         <div className="Details">
                             <h1>Sonu Chandara</h1>
