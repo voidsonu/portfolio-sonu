@@ -55,7 +55,16 @@ li a{
 }
 a{
     text-decoration: none;
+    color: #fff;
 }                                  
 html{
     scroll-behavior: smooth;
+}
+#project2 a{
+    background-color: rgb(2, 217, 255);
+    padding: 10px;
+    border: 1px solid rgb(2, 217, 255);
+    border-radius: 10px;
+    position: relative;
+    left: 20px;
 }

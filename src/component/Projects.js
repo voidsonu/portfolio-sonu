@@ -11,8 +11,9 @@ export const Projects =() =>{
                     <p>A portal made for booking hospital services like arranging a appointment and checking either doctor is available or admit patient etc. by help of "Html, Css, javaScript, Bootstrap, Php and Mysql." </p>
                 </ul>
                 <ul id='project2'>
-                    <li><h4>Yet to be made</h4></li>
-                    <p>Will be presenting soon.... Next Project will be made of Html, Css, JavaScript, Bootstrap, Reactjs, Nodejs. </p>
+                    <li><h4>Todo list</h4></li>
+                    <p>Creative Todo-list which you could add any task as well as modify. link to github:</p>
+                     <a href="https://github.com/voidsonu/Todo_list.git"> Todo-List</a>             
                 </ul>
             
         </div>
