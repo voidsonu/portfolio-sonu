@@ -13,7 +13,7 @@ export const About=()=>{
                             <h1>Sonu Chandara</h1>
                             <p className='contact'>Contact No: 8700800060</p><br />
                             <p className='email'>E-mail : sonudragneel4@gmail.com</p><br />
-                            <a href='https://docs.google.com/document/d/1ICJNQ0s2suaIr5bHlm8Pao3gFQZKZKsT/edit?usp=sharing&ouid=108898870545166671273&rtpof=true&sd=true'>Download Resume </a>
+                            <a href='https://docs.google.com/document/d/1ICJNQ0s2suaIr5bHlm8Pao3gFQZKZKsT/edit?usp=sharing&ouid=108898870545166671273&rtpof=true&sd=true' target="_blank">Download Resume </a>
                         </div> 
             </div>
                 <hr/>

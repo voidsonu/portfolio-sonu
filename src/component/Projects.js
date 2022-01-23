@@ -13,7 +13,7 @@ export const Projects =() =>{
                 <ul id='project2'>
                     <li><h4>Todo list</h4></li>
                     <p>Creative Todo-list which you could add any task as well as modify. link to github:</p>
-                     <a href="https://github.com/voidsonu/Todo_list.git"> Todo-List</a>             
+                     <a href="https://github.com/voidsonu/Todo_list.git" target="_blank"> Todo-List</a>             
                 </ul>
             
         </div>
